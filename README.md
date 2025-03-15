@@ -23,9 +23,8 @@ An **Android Developer** passionate about **Jetpack Compose**, **MVVM Architectu
 
 ### 📫 Connect with Me:
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/)
-- **Email:** your.email@example.com
-- **Twitter:** [Twitter](https://twitter.com/YOUR_PROFILE)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohammad-moradzade)
+- **Email:** [mohammadmoradzade.dev@gmail.com]
 
 **👨‍💻 Keep learning, keep growing! 🚀**
 
