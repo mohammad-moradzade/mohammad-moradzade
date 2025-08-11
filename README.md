@@ -1,3 +1,10 @@
+### 👋 Hi! I'm **Mohammad(Murat Stack)**
+
+A **Full-Stack Developer** specializing in **Android Development**, **Flutter**, and **Backend Development**.  
+Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
+
+---
+
 <br>
 
 ### Languages:
@@ -23,12 +30,7 @@
 
 <br>
 
-### 👋 Hi! I'm **Mohammad**
 
-A **Full-Stack Developer** specializing in **Android Development**, **Flutter**, and **Backend Development**.  
-Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
-
----
 
 ### 🔧 Skills & Technologies:
 
