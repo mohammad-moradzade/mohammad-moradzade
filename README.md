@@ -1,23 +1,29 @@
 <br>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,flutter,java,laravel,nodejs,androidstudio,vscode,firebase,git,postman,sqlite,mysql,github&perline=16" alt="Tech Stack" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,laravel,nodejs,androidstudio,vscode,git,github,firebase,postman,sqlite,mysql,docker,nginx&perline=16" alt="Tech Stack" />
+</p>
 
 <br>
 
 ### 👋 Hi! I'm **Mohammad**
 
-An **Android Developer** passionate about **Jetpack Compose**, **MVVM Architecture**, and optimizing app performance! I'm always eager to learn new things and enjoy sharing my knowledge with others. 😃
+A **Full-Stack Developer** specializing in **Android Development** and **Backend Development**.  
+Passionate about **Jetpack Compose**, **MVVM Architecture**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
 
 ---
 
 ### 🔧 Skills & Technologies:
 
-- **Languages:** Kotlin, Java
+- **Languages:** Kotlin, Java, PHP, JavaScript (Node.js)
 - **Android Development:** Jetpack Compose, ViewModel, LiveData, WorkManager, Room Database, Navigation Component
 - **Architecture:** MVVM, Clean Architecture
-- **Tools & Frameworks:** Android Studio, Koin, Retrofit, Coroutines, Flow
+- **Backend Development:** Laravel, REST API, JWT Authentication, OAuth2, Google Login Integration
+- **Tools & Frameworks:** Android Studio, Koin, Retrofit, Coroutines, Flow, Express.js, NestJS
+- **Database:** MySQL, SQLite, Firebase Firestore, Redis
 - **Version Control:** Git, GitHub
-- **Web Development:** Laravel, REST API, JWT Authentication
+- **Other Skills:** Docker, Nginx, Postman, API Documentation, Automated Testing
+
 
 ---
 
