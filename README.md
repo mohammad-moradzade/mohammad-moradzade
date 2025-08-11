@@ -8,18 +8,20 @@
 
 ### 👋 Hi! I'm **Mohammad**
 
-A **Full-Stack Developer** specializing in **Android Development** and **Backend Development**.  
-Passionate about **Jetpack Compose**, **MVVM Architecture**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
+A **Full-Stack Developer** specializing in **Android Development**, **Flutter**, and **Backend Development**.  
+Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
 
 ---
 
 ### 🔧 Skills & Technologies:
 
-- **Languages:** Kotlin, Java, PHP, JavaScript (Node.js)
-- **Android Development:** Jetpack Compose, ViewModel, LiveData, WorkManager, Room Database, Navigation Component
+- **Languages:** Kotlin, Java, Dart, PHP, JavaScript (Node.js)
+- **Mobile Development:**  
+  - **Android:** Jetpack Compose, ViewModel, LiveData, WorkManager, Room Database, Navigation Component  
+  - **Flutter:** State Management (Provider, Riverpod), Flutter Widgets, Animations, Responsive Design
 - **Architecture:** MVVM, Clean Architecture
 - **Backend Development:** Laravel, REST API, JWT Authentication, OAuth2, Google Login Integration
-- **Tools & Frameworks:** Android Studio, Koin, Retrofit, Coroutines, Flow, Express.js, NestJS
+- **Tools & Frameworks:** Android Studio, VSCode, Koin, Retrofit, Coroutines, Flow, Express.js, NestJS
 - **Database:** MySQL, SQLite, Firebase Firestore, Redis
 - **Version Control:** Git, GitHub
 - **Other Skills:** Docker, Nginx, Postman, API Documentation, Automated Testing
