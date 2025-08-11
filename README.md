@@ -1,8 +1,25 @@
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,laravel,nodejs,androidstudio,vscode,git,github,firebase,postman,sqlite,mysql,docker,nginx&perline=16" alt="Tech Stack" />
-</p>
+### Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,java,python,php,js&theme=light)](https://github.com/YourUsername)
+
+### Mobile Development:
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio&theme=light)](https://github.com/YourUsername)
+
+### Backend & Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,docker,nginx&theme=light)](https://github.com/YourUsername)
+
+### Databases:
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,firebase&theme=light)](https://github.com/YourUsername)
+
+### Tools & Version Control:
+
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode&theme=light)](https://github.com/YourUsername)
+
 
 <br>
 
