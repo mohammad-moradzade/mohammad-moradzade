@@ -6,15 +6,25 @@ Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Lara
 ---
 <br>
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,java,python,php,js&theme=light)](https://github.com/YourUsername)
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,java,python,php,js&theme=light)](https://github.com/mohammad-moradzade)
+
 ### Mobile Development:
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio&theme=light)](https://github.com/YourUsername)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio&theme=light)](https://github.com/mohammad-moradzade)
+
 ### Backend & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,docker,nginx&theme=light)](https://github.com/YourUsername)
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,docker,nginx&theme=light)](https://github.com/mohammad-moradzade)
+
 ### Databases:
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,firebase&theme=light)](https://github.com/YourUsername)
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,firebase&theme=light)](https://github.com/mohammad-moradzade)
+
 ### Tools & Version Control:
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode&theme=light)](https://github.com/YourUsername)
+
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode&theme=light)](https://github.com/mohammad-moradzade)
+
 <br>
 
 
