@@ -23,9 +23,9 @@ Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Lara
 
 ### 💼 Selected Projects
 
-- **[Project Name or Client]**: Developed a scalable multi-module Android app using Jetpack Compose & MVVM, reducing app crashes by 30%.  
-- **[Project Name or Client]**: Built RESTful APIs with Laravel & Node.js for a supply chain management platform (PouladForge).  
-- **[Project Name or Client]**: Flutter-based cross-platform app with custom animations and state management for real-time data sync.
+- **[FoodBan]**: Developed a scalable multi-module Android app using Jetpack Compose & MVVM, reducing app crashes by 30%.  
+- **[PouladForge]**: Built RESTful APIs with Laravel & Node.js for a supply chain management platform (PouladForge).  
+- **[DaneshYar]**: Flutter-based cross-platform app with custom animations and state management for real-time data sync.
 
 *(More projects available on request or via portfolio link)*
 
