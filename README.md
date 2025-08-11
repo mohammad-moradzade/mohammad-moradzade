@@ -54,7 +54,7 @@ If you're looking for a reliable developer to bring your app or backend idea to 
 
 - **LinkedIn:** [https://www.linkedin.com/in/mohammad-moradzade](https://www.linkedin.com/in/mohammad-moradzade)  
 - **Email:** [mohammadmoradzade.dev@gmail.com](mailto:mohammadmoradzade.dev@gmail.com)  
-- **Portfolio:** *(Add your portfolio link here if you have one)*
+- **Portfolio:** 😉
 
 ---
 
