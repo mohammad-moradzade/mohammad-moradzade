@@ -4,30 +4,17 @@ A **Full-Stack Developer** specializing in **Android Development**, **Flutter**,
 Passionate about **Jetpack Compose**, **MVVM Architecture**, **Flutter**, **Laravel**, and **Node.js** — always striving to build scalable, high-performance apps and APIs. 🚀
 
 ---
-
 <br>
-
 ### Languages:
-
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,java,python,php,js&theme=light)](https://github.com/YourUsername)
-
 ### Mobile Development:
-
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio&theme=light)](https://github.com/YourUsername)
-
 ### Backend & Frameworks:
-
 [![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,docker,nginx&theme=light)](https://github.com/YourUsername)
-
 ### Databases:
-
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,firebase&theme=light)](https://github.com/YourUsername)
-
 ### Tools & Version Control:
-
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode&theme=light)](https://github.com/YourUsername)
-
-
 <br>
 
 
