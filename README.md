@@ -1,6 +1,6 @@
 <br>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,flutter,git,postman,sqlite,github,vscode&perline=16" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,flutter,git,postman,laravel,sqlite,github,vscode&perline=16" alt="Tech Stack" /> </p>
 
 <br>
 
