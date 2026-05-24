@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,python,php,js,flutter,androidstudio,laravel,nodejs,docker,nginx,sqlite,mysql,firebase,postman,git,github,vscode&perline=16" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,php,flutter,androidstudio,laravel,nginx,sqlite,mysql,firebase,postman,git,github,vscode&perline=16" alt="Tech Stack" />
 </p>
 
 ### 👋 Hi! I'm **Mohammad (Murat Stack)**
